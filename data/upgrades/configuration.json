@@ -511,7 +511,7 @@
     "hyperspace": true,
     "sides": [
       {
-        "ability": "Replace your Autothrusters ship ability with the following:",
+        "ability": "Replace your Autothrusters ship ability with the following: Sensitive Controls: During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action.",
         "title": "Sensitive Controls",
         "type": "Configuration",
         "slots": ["Configuration"],
